@@ -3,8 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Wool-ly's%20Github&fontSize=90" />
 
 
-📌Tech Stack📌
-
+<div align="center">
+<h3 dir="auto">📌Tech Stack📌</h3>
+</div>
+	
 Langagues
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
