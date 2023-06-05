@@ -56,7 +56,7 @@
 <br>
 
 <div align=center>
-	<h4>🎨 SNS & Portfolio 🎨</h4>
+	<h3>🎨 SNS & Portfolio 🎨</h3>
 </div>
 <div align=center>
 	<a href="https://velog.io/@wool_ly">
