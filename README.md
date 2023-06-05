@@ -25,7 +25,9 @@
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 </div>
 
 <div align=center>
@@ -37,9 +39,8 @@
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white" />
 </div>
 
