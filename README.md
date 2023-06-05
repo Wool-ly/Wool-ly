@@ -73,5 +73,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wool-ly&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Wool-ly&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Wool-ly)
+<!-- ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=Wool-ly) -->
 
