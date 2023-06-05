@@ -11,8 +11,8 @@
 </div>
 
 <div align=center>
-	<h3>📌Tech Stack📌</h3>
-	<p>⭐ Platforms & Languages ⭐</p>
+	<h3>📌Skill📌</h3>
+	<h4>⭐ Platforms & Languages ⭐</h4>
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 <br>
 
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h4>🛠 Tools 🛠</h4>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
@@ -54,7 +54,7 @@
 <br>
 
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<h4>🎨 SNS & Portfolio 🎨</h4>
 </div>
 <div align=center>
 	<a href="https://velog.io/@wool_ly">
