@@ -28,7 +28,9 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 </div>
+
 <br>
+
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -41,5 +43,26 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white" />
+</div>
+
+<br>
+
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+	<a href="https://velog.io/@wool_ly">
+		<img src="https://img.shields.io/badge/Blog1-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<a href="https://velog.io/@wool_ly">
+		<img src="https://img.shields.io/badge/Blog2-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<a href="mailto:admin@yermi.co.kr">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+	<br>
 </div>
 
