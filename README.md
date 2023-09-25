@@ -35,6 +35,20 @@
 </div>
 
 ##
+
+<div>
+   <h3 dir="auto"> 💻 Projects </h3>
+</div>
+<div>
+
+<a href="https://github.com/Wool-ly/dorandoran-server">[개인 프로젝트] [도란도란 : 문학-영화 감상 공유 커뮤니티] (2023.07 ~ 진행 중) [Private Reposity] <br> </a>
+<a href="https://github.com/zipkimi/back-zipkimi">[사이드 프로젝트] [집킴이 : 인테리어 안전 거래 플랫폼] (2023.04 ~ 진행 중) <br></a>
+<a href="https://github.com/Wool-ly/DEVCDPER">[팀 프로젝트] [DEVCDPER : IT 경력 관리 플랫폼] (2021.04 ~ 2021.07) <br></a>
+
+   
+</div>
+
+##
 <div>
    <h3> Contact </h3>
 </div>
